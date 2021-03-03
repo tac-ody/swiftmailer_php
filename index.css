@@ -1,0 +1,19 @@
+input, textarea{
+    margin: 0 auto;
+}
+
+#From, #To, #Cc, #Bcc, #Subject, #Body, #Attach{
+    display: block;
+    margin: 10px 0px;
+    width: 500px; 
+    height: 25px;
+}
+
+#Body{
+    height: 200px;
+}
+
+#send_button{
+    height: 40px;
+    width: 70px;
+}
